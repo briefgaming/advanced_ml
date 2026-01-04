@@ -151,7 +151,7 @@ void run_performance_test() {
 int main() {
     auto start = std::chrono::high_resolution_clock::now();
 
-    for (int i=0; i < 20; i++) {
+    for (int i=0; i < 20000; i++) {
         run_performance_test();
     }
 
