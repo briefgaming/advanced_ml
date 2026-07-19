@@ -1,0 +1,3 @@
+Third-party software in `blackwell_matmul/vendor/dense_gemm_persistent.py` is taken from the NVIDIA CUTLASS repository and is licensed under the BSD 3-Clause license reproduced in the file header.
+
+Upstream: https://github.com/NVIDIA/cutlass

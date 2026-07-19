@@ -1,0 +1,5 @@
+# Local driver — Modal orchestration is in cuda/modal_kernel.
+#   pip install -e ../../modal_kernel
+# or: PYTHONPATH=../../modal_kernel:.
+numpy>=1.26
+modal>=0.73
